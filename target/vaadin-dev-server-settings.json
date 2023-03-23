@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/home/omercik/testboard/monadtask/dsagdsa/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/omercik/testboard/monadtask/dsagdsa/frontend/generated/jar-resources",
+  "staticOutput": "/home/omercik/testboard/monadtask/dsagdsa/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/omercik/testboard/monadtask/dsagdsa/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/omercik/testboard/monadtask/dsagdsa/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/omercik/testboard/monadtask/dsagdsa/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/omercik/testboard/monadtask/dsagdsa/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/home/omercik/testboard/monadtask/dsagdsa/frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "dsagdsa",
+  "clientServiceWorkerSource": "/home/omercik/testboard/monadtask/dsagdsa/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}

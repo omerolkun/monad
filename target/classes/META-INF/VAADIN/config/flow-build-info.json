@@ -1,0 +1,17 @@
+{
+  "productionMode": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/omercik/testboard/monadtask/dsagdsa",
+  "node.version": "v18.14.1",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/home/omercik/testboard/monadtask/dsagdsa/target/frontend",
+  "frontendFolder": "/home/omercik/testboard/monadtask/dsagdsa/frontend",
+  "connect.javaSourceFolder": "/home/omercik/testboard/monadtask/dsagdsa/src/main/java",
+  "javaResourceFolder": "/home/omercik/testboard/monadtask/dsagdsa/src/main/resources",
+  "connect.applicationProperties": "/home/omercik/testboard/monadtask/dsagdsa/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/omercik/testboard/monadtask/dsagdsa/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/omercik/testboard/monadtask/dsagdsa/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

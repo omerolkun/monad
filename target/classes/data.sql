@@ -1,0 +1,11 @@
+insert into personel (TCKNO, Ad, Soyad) values(314, 'Ahmet', 'Yilmaz')
+insert into personel (TCKNO, Ad, Soyad) values(813, 'Secil', 'Yavuz')
+insert into personel (TCKNO, Ad, Soyad) values(931, 'Kadir', 'Gunesli')
+insert into personel (TCKNO, Ad, Soyad) values(211, 'Sahsenem', 'Dulger')
+insert into personel (TCKNO, Ad, Soyad) values(980, 'Murat', 'Par')
+insert into personel (TCKNO, Ad, Soyad) values(918, 'Melike', 'Ocal')
+insert into personel (TCKNO, Ad, Soyad) values(117, 'Ridvan', 'Dilek')
+insert into personel (TCKNO, Ad, Soyad) values(600, 'Kiraz', 'Gulec')
+insert into personel (TCKNO, Ad, Soyad) values(762, 'Adiguzel', 'San')
+insert into personel (TCKNO, Ad, Soyad) values(510, 'Feride', 'Yucel')
+

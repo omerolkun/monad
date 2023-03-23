@@ -1,0 +1,15 @@
+com/example/application/components/appnav/AppNavItem.class
+com/example/application/views/masterdetail/MasterDetailView.class
+com/example/application/views/MainLayout.class
+com/example/application/data/service/SamplePersonRepository.class
+com/example/application/data/entity/SamplePerson.class
+com/example/application/Application.class
+com/example/application/components/appnav/AppNav.class
+com/example/application/data/service/EmployeeService.class
+com/example/application/data/entity/Employee.class
+com/example/application/views/helloworld/HelloWorldView.class
+com/example/application/data/service/SamplePersonService.class
+com/example/application/data/entity/AbstractEntity.class
+com/example/application/views/empty/EmptyView.class
+com/example/application/data/service/EmployeeRepository.class
+com/example/application/Application$1.class

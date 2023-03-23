@@ -1,0 +1,15 @@
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/views/empty/EmptyView.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/Application.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/service/EmployeeService.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/views/employee/EmployeeView.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/service/SamplePersonService.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/views/MainLayout.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/views/helloworld/HelloWorldView.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/entity/Employee.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/components/appnav/AppNav.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/views/masterdetail/MasterDetailView.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/service/SamplePersonRepository.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/service/EmployeeRepository.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/entity/SamplePerson.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/components/appnav/AppNavItem.java
+/home/omercik/testboard/monadtask/dsagdsa/src/main/java/com/example/application/data/entity/AbstractEntity.java
