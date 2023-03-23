@@ -10,17 +10,15 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.router.RouteAlias;
 import com.vaadin.flow.theme.lumo.LumoUtility.Margin;
 
-@PageTitle("Empty")
-@Route(value = "empty", layout = MainLayout.class)
+import com.vaadin.flow.component.button.Button;
+
+@PageTitle("About")
+@Route(value = "about", layout = MainLayout.class)
 @RouteAlias(value = "", layout = MainLayout.class)
 public class EmptyView extends VerticalLayout {
-
     public EmptyView() {
         setSpacing(false);
 
-        Image img = new Image("images/empty-plant.png", "placeholder plant");
-        img.setWidth("200px");
-        add(img);
 
         H2 header = new H2("This place intentionally left empty");
         header.addClassNames(Margin.Top.XLARGE, Margin.Bottom.MEDIUM);
